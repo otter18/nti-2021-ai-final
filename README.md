@@ -6,43 +6,49 @@
 
 ## Solutions
 - [`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) - bert *(public score: 0.8153)*
-    * model_name = "DeepPavlov/rubert-base-cased"
-    * num_train_epochs = 2 
-    * learning_rate =  3e-5 
-    * train_batch_size = 32 
-    * adam_epsilon =  3e-8
-   
+    ```python3
+    model_name = "DeepPavlov/rubert-base-cased"
+    num_train_epochs = 2 
+    learning_rate =  3e-5 
+    train_batch_size = 32 
+    adam_epsilon =  3e-8
+    ```
+
 - [`13ut5xrhvr`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr) - bert *(public score: None)*
-    * model_name = "DeepPavlov/rubert-base-cased"
-    * num_train_epochs = 2 
-    * learning_rate =  5e-5 
-    * train_batch_size = 32 
-    * adam_epsilon =  3e-8
+    ```python3
+    model_name = "DeepPavlov/rubert-base-cased"
+    num_train_epochs = 2 
+    learning_rate =  5e-5 
+    train_batch_size = 32 
+    adam_epsilon =  3e-8
+   ```
 
 - [`p871faksle`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle) - bert *(public score: None)*
-    * model_name = "RuBERT/"
-    * num_train_epochs = 2 
-    * learning_rate =  5e-5 
-    * train_batch_size = 32 
-    * adam_epsilon =  3e-8
+    ```python3
+    model_name = "RuBERT/"
+    num_train_epochs = 2 
+    learning_rate =  5e-5 
+    train_batch_size = 32 
+    adam_epsilon =  3e-8
+   ```
 
 - [`jndykzt1i7`](https://github.com/otter18/nti-2021-ai-final/blob/main/jndykzt1i7) - bert *(public score: None)*
-    * model_name = "DeepPavlov/rubert-base-cased"
-    * num_train_epochs = 2 
-    * learning_rate =  1e-4
-    * train_batch_size = 32 
-    * adam_epsilon =  3e-8
+    ```python3
+    model_name = "DeepPavlov/rubert-base-cased"
+    num_train_epochs = 2 
+    learning_rate =  1e-4
+    train_batch_size = 32 
+    adam_epsilon =  3e-8
 
 - [`66me00urb3`](https://github.com/otter18/nti-2021-ai-final/blob/main/66me00urb3) - catboost + cosine_similarity *(public score: 0.243)*
     ```python3
-    CatBoostClassifier(
-                            learning_rate=1e-2,
-                            max_depth=4,
-                            iterations=1000,
-                            loss_function="MultiClass",
-                            eval_metric='MultiClass',
-                            random_seed=179,
-                          )
+    learning_rate = 1e-2
+    max_depth = 4
+    iterations = 1000
+    loss_function = "MultiClass"
+    eval_metric = 'MultiClass'
+    random_seed = 179
+    ```
 
 - [`9kv9df5nkbbh0tjt`](https://github.com/otter18/nti-2021-ai-final/blob/main/9kv9df5nkbbh0tjt) - official baseline *(public score: 0.1281)*
     * tfidf_baseline
