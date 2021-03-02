@@ -7,7 +7,7 @@
 
 Hash | Type| Public score
 --- | --- | ---
-[`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) | DeepPavlov/rubert-base-cased | 0.8153
+[`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) | DeepPavlov/rubert-base-cased | **0.8153**
 [`13ut5xrhvr`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr) | DeepPavlov/rubert-base-cased | None
 [`p871faksle`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle) | RuBERT | None
 [`jndykzt1i7`](https://github.com/otter18/nti-2021-ai-final/blob/main/jndykzt1i7) | DeepPavlov/rubert-base-cased | None
