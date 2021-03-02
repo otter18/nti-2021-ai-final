@@ -33,6 +33,17 @@
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
 
+- [`66me00urb3`](https://github.com/otter18/nti-2021-ai-final/blob/main/66me00urb3) - catboost + cosine_similarity *(public score: 0.243)*
+    ```python3
+    CatBoostClassifier(
+                            learning_rate=1e-2,
+                            max_depth=4,
+                            iterations=1000,
+                            loss_function="MultiClass",
+                            eval_metric='MultiClass',
+                            random_seed=179,
+                          )
+
 - [`9kv9df5nkbbh0tjt`](https://github.com/otter18/nti-2021-ai-final/blob/main/9kv9df5nkbbh0tjt) - official baseline *(public score: 0.1281)*
     * tfidf_baseline
 
