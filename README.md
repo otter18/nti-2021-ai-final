@@ -33,5 +33,9 @@
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
 
+- [`9kv9df5nkbbh0tjt`](https://github.com/otter18/nti-2021-ai-final/blob/main/9kv9df5nkbbh0tjt) - official baseline *(public score: None)*
+    * tfidf_baseline
+
+
 ## Tools developed for this project
 - `tg_logger` *(useful for Google Colab because it resets the VM frequently)*, [[pypi]](https://pypi.org/project/tg-logger/), [[repo]](https://github.com/otter18/tg_logger)
