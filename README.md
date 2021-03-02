@@ -19,5 +19,12 @@
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
 
+- [`p871faksle.ipynb`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle.ipynb) - bert *(public score: None)*
+    * model_name = "RuBERT/"
+    * num_train_epochs = 2 
+    * learning_rate =  5e-5 
+    * train_batch_size = 32 
+    * adam_epsilon =  3e-8
+
 ## Tools developed for this project
 - `tg_logger` *(useful for Google Colab because it resets the VM frequently)*, [[pypi]](https://pypi.org/project/tg-logger/), [[repo]](https://github.com/otter18/tg_logger)
