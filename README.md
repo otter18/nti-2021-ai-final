@@ -5,24 +5,31 @@
 ## *All submits are linked with notebooks by random hash*
 
 ## Solutions
-- [`wbwpk9e9zr.ipynb`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr.ipynb) - bert *(public score: 0.8153)*
+- [`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) - bert *(public score: 0.8153)*
     * model_name = "DeepPavlov/rubert-base-cased"
     * num_train_epochs = 2 
     * learning_rate =  3e-5 
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
    
-- [`13ut5xrhvr.ipynb`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr.ipynb) - bert *(public score: None)*
+- [`13ut5xrhvr`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr) - bert *(public score: None)*
     * model_name = "DeepPavlov/rubert-base-cased"
     * num_train_epochs = 2 
     * learning_rate =  5e-5 
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
 
-- [`p871faksle.ipynb`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle.ipynb) - bert *(public score: None)*
+- [`p871faksle`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle) - bert *(public score: None)*
     * model_name = "RuBERT/"
     * num_train_epochs = 2 
     * learning_rate =  5e-5 
+    * train_batch_size = 32 
+    * adam_epsilon =  3e-8
+
+- [`jndykzt1i7`](https://github.com/otter18/nti-2021-ai-final/blob/main/jndykzt1i7) - bert *(public score: None)*
+    * model_name = "DeepPavlov/rubert-base-cased"
+    * num_train_epochs = 2 
+    * learning_rate =  1e-4
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
 
