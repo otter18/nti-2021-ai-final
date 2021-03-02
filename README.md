@@ -11,8 +11,10 @@ Hash | Type| Public score
 [`13ut5xrhvr`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr) | DeepPavlov/rubert-base-cased | None
 [`p871faksle`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle) | RuBERT | None
 [`jndykzt1i7`](https://github.com/otter18/nti-2021-ai-final/blob/main/jndykzt1i7) | DeepPavlov/rubert-base-cased | None
+[`5l1p67kt4q`](https://github.com/otter18/nti-2021-ai-final/blob/main/5l1p67kt4q) | DeepPavlov/rubert-base-cased | None
 [`66me00urb3`](https://github.com/otter18/nti-2021-ai-final/blob/main/66me00urb3) | catboost + cosine_similarity | 0.243
 [`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) | official baseline | 0.1281
+
 
 
 
@@ -50,6 +52,14 @@ Hash | Type| Public score
     num_train_epochs = 2 
     learning_rate =  1e-4
     train_batch_size = 32 
+    adam_epsilon =  3e-8
+
+- [`5l1p67kt4q`](https://github.com/otter18/nti-2021-ai-final/blob/main/5l1p67kt4q) - bert *(public score: None)*
+    ```python3
+    model_name = "DeepPavlov/rubert-base-cased"
+    num_train_epochs = 3 
+    learning_rate =  4e-5
+    train_batch_size = 32
     adam_epsilon =  3e-8
 
 - [`66me00urb3`](https://github.com/otter18/nti-2021-ai-final/blob/main/66me00urb3) - catboost + cosine_similarity *(public score: 0.243)*
