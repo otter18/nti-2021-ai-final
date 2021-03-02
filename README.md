@@ -4,14 +4,14 @@
 ## *All submits are linked with notebooks by random hash*
 
 ## Description
-- `wbwpk9e9zr.ipynb` - bert *(public score: 0.8153)*
+- [`wbwpk9e9zr.ipynb`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr.ipynb) - bert *(public score: 0.8153)*
     * model_name = "DeepPavlov/rubert-base-cased"
     * num_train_epochs = 2 
     * learning_rate =  3e-5 
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
    
-- `13ut5xrhvr.ipynb` - bert *(public score: None)*
+- [`13ut5xrhvr.ipynb`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr.ipynb) - bert *(public score: None)*
     * model_name = "DeepPavlov/rubert-base-cased"
     * num_train_epochs = 2 
     * learning_rate =  5e-5 
