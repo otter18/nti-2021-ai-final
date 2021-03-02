@@ -33,7 +33,7 @@
     * train_batch_size = 32 
     * adam_epsilon =  3e-8
 
-- [`9kv9df5nkbbh0tjt`](https://github.com/otter18/nti-2021-ai-final/blob/main/9kv9df5nkbbh0tjt) - official baseline *(public score: None)*
+- [`9kv9df5nkbbh0tjt`](https://github.com/otter18/nti-2021-ai-final/blob/main/9kv9df5nkbbh0tjt) - official baseline *(public score: 0.1281)*
     * tfidf_baseline
 
 
