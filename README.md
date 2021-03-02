@@ -3,3 +3,20 @@
 
 ## *All submits are linked with notebooks by random hash*
 
+## Description
+- `wbwpk9e9zr.ipynb` - bert *(public score: 0.8153)*
+    * model_name = "DeepPavlov/rubert-base-cased"
+    * num_train_epochs = 2 
+    * learning_rate =  3e-5 
+    * train_batch_size = 32 
+    * adam_epsilon =  3e-8
+   
+- `13ut5xrhvr.ipynb` - bert *(public score: None)*
+    * model_name = "DeepPavlov/rubert-base-cased"
+    * num_train_epochs = 2 
+    * learning_rate =  5e-5 
+    * train_batch_size = 32 
+    * adam_epsilon =  3e-8
+
+## Tools developed for this project
+- `tg_logger` *(useful for Google Colab because it resets the VM frequently)*, [[pypi]](https://pypi.org/project/tg-logger/), [[repo]](https://github.com/otter18/tg_logger)
