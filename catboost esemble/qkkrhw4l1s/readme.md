@@ -1,1 +1,0 @@
-1500 model_vova_small

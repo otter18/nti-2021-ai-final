@@ -1,2 +1,0 @@
-iterations=1000
-model_vova_small

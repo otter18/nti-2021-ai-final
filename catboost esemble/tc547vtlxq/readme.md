@@ -1,3 +1,0 @@
-1000
-vova_small
-misha
