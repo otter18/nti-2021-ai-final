@@ -13,7 +13,7 @@ Hash | Type| Public score
 [`jndykzt1i7`](https://github.com/otter18/nti-2021-ai-final/blob/main/jndykzt1i7) | DeepPavlov/rubert-base-cased | 0.6575 
 [`5l1p67kt4q`](https://github.com/otter18/nti-2021-ai-final/blob/main/5l1p67kt4q) | DeepPavlov/rubert-base-cased | 0.8027 
 [`66me00urb3`](https://github.com/otter18/nti-2021-ai-final/blob/main/66me00urb3) | catboost + cosine_similarity | 0.243
-[`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) | official baseline | 0.1281
+[`9kv9df5nkbbh0tjt`](https://github.com/otter18/nti-2021-ai-final/blob/main/9kv9df5nkbbh0tjt) | official baseline | 0.1281
 
 
 
