@@ -1,7 +1,5 @@
 # Ensemble solution
 
-## *All submits are named by hash*
-
 ## Scores
 
 Hash | Public score
