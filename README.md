@@ -8,6 +8,7 @@
 Hash | Type| Public score
 --- | --- | ---
 [`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) | DeepPavlov/rubert-base-cased | **0.8153**
+[`ensemble`](https://github.com/otter18/nti-2021-ai-final/tree/main/ensemble) | berts + catboost | None
 [`13ut5xrhvr`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr) | DeepPavlov/rubert-base-cased | 0.7947
 [`p871faksle`](https://github.com/otter18/nti-2021-ai-final/blob/main/p871faksle) | RuBERT | 0.5807 
 [`jndykzt1i7`](https://github.com/otter18/nti-2021-ai-final/blob/main/jndykzt1i7) | DeepPavlov/rubert-base-cased | 0.6575 
@@ -27,6 +28,11 @@ Hash | Type| Public score
     train_batch_size = 32 
     adam_epsilon =  3e-8
     ```
+
+- [`ensemble`](https://github.com/otter18/nti-2021-ai-final/tree/main/ensemble) - bert assembled by catboost *(public score: None)*
+    * [`wbwpk9e9zr`](https://github.com/otter18/nti-2021-ai-final/blob/main/13ut5xrhvr) bert
+    * [`5l1p67kt4q`](https://github.com/otter18/nti-2021-ai-final/blob/main/5l1p67kt4q) bert
+    * some non-text features
 
 - [`13ut5xrhvr`](https://github.com/otter18/nti-2021-ai-final/blob/main/wbwpk9e9zr) - bert *(public score: 0.7947)*
     ```python3
