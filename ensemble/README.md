@@ -1,4 +1,5 @@
 # Ensemble solution
+Unsuccessful attempt so far (bert-models, that were trained on **Christofari**, failed to save properly, so they were saved as untrained)
 
 ## Scores
 
@@ -12,3 +13,6 @@ Hash | Public score
 [`x4087tez3w`](x4087tez3w/) | 0.1431
 [`mqkqbmfa0k`](mqkqbmfa0k/) | 0.1233
 
+## Notebooks
+- [`get_raw_outputs_from_saved_model.ipynb`](get_raw_outputs_from_saved_model.ipynb) - getting raw_outputs from saved bert-models
+- [`catboost_ensemble.ipynb`](catboost_ensemble.ipynb) - using catboost to summarize bert-model outputs
